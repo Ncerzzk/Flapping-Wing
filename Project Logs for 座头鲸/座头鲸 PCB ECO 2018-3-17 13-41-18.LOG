@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=R10-1
+Removed Pin From Net: NetName=PB11 Pin=R10-2
+Added Pin To Net: NetName=PA8 Pin=MPU1-23
+Added Pin To Net: NetName=PA8 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=PB11 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=PA8 Pin=U1-29
+Added Pin To Net: NetName=PB11 Pin=U1-40
+Change Net Name : Old Net Name=C_RESET New Net Name=PB6
+Change Net Name : Old Net Name=D0 New Net Name=PD2
+Change Net Name : Old Net Name=D1 New Net Name=PB4
+Change Net Name : Old Net Name=D2 New Net Name=PB5
+Change Net Name : Old Net Name=D3 New Net Name=PB3
+Change Net Name : Old Net Name=D4 New Net Name=PC12
+Change Net Name : Old Net Name=D5 New Net Name=PC11
+Change Net Name : Old Net Name=D6 New Net Name=PC10

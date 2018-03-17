@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=S1 Old Footprint=key - duplicate New Footprint=ButtonTACT_3x4x2_180H
+Change Component Comment : Designator=S1 Old Comment=SW-PB New Comment=ButtonTACT_3x4x2_180
+Change component parameters. Clean all parameters for all variants

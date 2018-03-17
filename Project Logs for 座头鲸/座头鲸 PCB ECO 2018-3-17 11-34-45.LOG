@@ -1,0 +1,435 @@
+Removed Pin From Net: NetName=VIN Pin=BAT2-1
+Removed Pin From Net: NetName=PGND Pin=BAT2-2
+Removed Pin From Net: NetName=VIN Pin=BAT-1
+Removed Pin From Net: NetName=PGND Pin=BAT-2
+Removed Pin From Net: NetName=3V3 Pin=BMP-1
+Removed Pin From Net: NetName=GND Pin=BMP-2
+Removed Pin From Net: NetName=PB10 Pin=BMP-3
+Removed Pin From Net: NetName=PB11 Pin=BMP-4
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=3.7V Pin=C14-1
+Removed Pin From Net: NetName=PGND Pin=C14-2
+Removed Pin From Net: NetName=3.7V Pin=C16-1
+Removed Pin From Net: NetName=PGND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=3.7V Pin=L9110-2
+Removed Pin From Net: NetName=3.7V Pin=L9110-3
+Removed Pin From Net: NetName=PGND Pin=L9110-5
+Removed Pin From Net: NetName=PC4 Pin=L9110-6
+Removed Pin From Net: NetName=PB1 Pin=L9110-7
+Removed Pin From Net: NetName=PGND Pin=L9110-8
+Removed Pin From Net: NetName=MOSI Pin=LT-1
+Removed Pin From Net: NetName=MISO Pin=LT-2
+Removed Pin From Net: NetName=LT_RST Pin=LT-4
+Removed Pin From Net: NetName=GND Pin=LT-9
+Removed Pin From Net: NetName=3V3 Pin=LT-12
+Removed Pin From Net: NetName=PA15 Pin=LT-13
+Removed Pin From Net: NetName=NSS Pin=LT-14
+Removed Pin From Net: NetName=GND Pin=LT-15
+Removed Pin From Net: NetName=PB13 Pin=LT-16
+Removed Pin From Net: NetName=3.7V Pin=MOTOR1-1
+Removed Pin From Net: NetName=VIN Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=p_C-2
+Removed Pin From Net: NetName=PB11 Pin=p_C-3
+Removed Pin From Net: NetName=PB10 Pin=p_C-5
+Removed Pin From Net: NetName=C_RESET Pin=p_C-6
+Removed Pin From Net: NetName=PB8 Pin=p_C-7
+Removed Pin From Net: NetName=PB7 Pin=p_C-8
+Removed Pin From Net: NetName=HREF Pin=p_C-9
+Removed Pin From Net: NetName=D7 Pin=p_C-12
+Removed Pin From Net: NetName=PA11 Pin=p_C-13
+Removed Pin From Net: NetName=D6 Pin=p_C-14
+Removed Pin From Net: NetName=GND Pin=p_C-15
+Removed Pin From Net: NetName=D5 Pin=p_C-16
+Removed Pin From Net: NetName=PA8 Pin=p_C-17
+Removed Pin From Net: NetName=D4 Pin=p_C-18
+Removed Pin From Net: NetName=D0 Pin=p_C-19
+Removed Pin From Net: NetName=D3 Pin=p_C-20
+Removed Pin From Net: NetName=D1 Pin=p_C-21
+Removed Pin From Net: NetName=D2 Pin=p_C-22
+Removed Pin From Net: NetName=PGND Pin=Q1-2
+Removed Pin From Net: NetName=PGND Pin=Q2-S
+Removed Pin From Net: NetName=PA13 Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=PA14 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=PA6 Pin=R12-1
+Removed Pin From Net: NetName=PA6 Pin=R16-1
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=10V Pin=R40-2
+Removed Pin From Net: NetName=3.7V Pin=RT2V8-1
+Removed Pin From Net: NetName=PGND Pin=RT2V8-2
+Removed Pin From Net: NetName=3.7V Pin=RT2V8-3
+Removed Pin From Net: NetName=3.7V Pin=RT3V3-1
+Removed Pin From Net: NetName=PGND Pin=RT3V3-2
+Removed Pin From Net: NetName=3.7V Pin=RT3V3-3
+Removed Pin From Net: NetName=3V3 Pin=RT3V3-5
+Removed Pin From Net: NetName=3V3 Pin=USART1-1
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=ANT
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=BAT2
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=BMP
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=C17
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=C18
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=C19
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=Induct1
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=L9110
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=LT
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=MOTOR1
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=p_C
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=Q1
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=Q2
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=R16
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=R40
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=RL
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=RT2V8
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=RT3V3
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=Y2
+Change Component Footprint: Designator=C11 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C12 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C13 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C16 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_TAN_P0805
+Change Component Footprint: Designator=C10 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_TAN_P0805
+Change Component Footprint: Designator=C14 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_TAN_P0805
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X3 New Footprint=HDR1X2_2.54_180
+Change Component Footprint: Designator=R6 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R8 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R12 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Comment : Designator=C11 Old Comment=Cap New Comment=Cap_0603
+Change Component Comment : Designator=C12 Old Comment=Cap New Comment=Cap_0603
+Change Component Comment : Designator=C13 Old Comment=Cap New Comment=Cap_0603
+Change Component Comment : Designator=C16 Old Comment=Cap New Comment=Cap_0603
+Change Component Comment : Designator=C9 Old Comment=Cap New Comment=Cap_Tan_0805
+Change Component Comment : Designator=C10 Old Comment=Cap New Comment=Cap_Tan_0805
+Change Component Comment : Designator=C14 Old Comment=Cap New Comment=Cap_Tan_0805
+Change Component Comment : Designator=P1 Old Comment=Header 3 New Comment=HDR1x2_2.54
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=Res_0603
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=Res_0603
+Change Component Comment : Designator=R12 Old Comment=Res1 New Comment=Res_0603
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20PF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20PF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20PF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220pf"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uH"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=Mos1(Nmos_SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Mos2(Nmos_SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PW1(SwitchSPDT_2.8X6.6_90)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RF1(nrf24l01_youxin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RT1(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.7V Pin=BAT-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=10V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=3.7V Pin=D4-2
+Added Pin To Net: NetName=PGND Pin=Mos1-D
+Added Pin To Net: NetName=PA6 Pin=Mos2-G
+Added Pin To Net: NetName=PGND Pin=Mos2-S
+Added Pin To Net: NetName=VIN Pin=PW1-2
+Added Pin To Net: NetName=3.7V Pin=PW1-3
+Added Pin To Net: NetName=VIN Pin=R6-2
+Added Pin To Net: NetName=PGND Pin=R12-1
+Added Pin To Net: NetName=PA6 Pin=R12-2
+Added Pin To Net: NetName=3V3 Pin=RF1-1
+Added Pin To Net: NetName=GND Pin=RF1-2
+Added Pin To Net: NetName=MOSI Pin=RF1-6
+Added Pin To Net: NetName=MISO Pin=RF1-7
+Added Pin To Net: NetName=10V Pin=RT1-1
+Added Pin To Net: NetName=GND Pin=RT1-2
+Added Pin To Net: NetName=10V Pin=RT1-3
+Added Pin To Net: NetName=3V3 Pin=RT1-5
+Added Pin To Net: NetName=10V Pin=USART1-1
+Change Net Name : Old Net Name=3.7V New Net Name=VBAT
+Change Net Name : Old Net Name=10V New Net Name=5V
+Added Pin To Net: NetName=BGND Pin=BAT-2
+Added Pin To Net: NetName=BGND Pin=Mos1-S
+Added Pin To Net: NetName=BGND Pin=R8-2
+Added Net: Name=BGND
+Added Pin To Net: NetName=CE Pin=RF1-3
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=RF1-4
+Added Net: Name=CSN
+Added Pin To Net: NetName=IRQ Pin=RF1-8
+Added Net: Name=IRQ
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=RT1-4
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Mos2-D
+Added Pin To Net: NetName=NetD4_1 Pin=P1-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetMos1_G Pin=Mos1-G
+Added Pin To Net: NetName=NetMos1_G Pin=R6-1
+Added Net: Name=NetMos1_G
+Added Pin To Net: NetName=NetPW1_1 Pin=PW1-1
+Added Pin To Net: NetName=NetPW1_1 Pin=R8-1
+Added Net: Name=NetPW1_1
+Added Pin To Net: NetName=SCLK Pin=RF1-5
+Added Net: Name=SCLK
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component D4 Diode_SMA
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component Mos1 MOSFET N
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component Mos2 MOSFET N
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component PW1 SwitchSPDT_2.8x6.6_90
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component RF1 NRF2401_ÓÅÐÅ
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component RT1 RT9193
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component  LM
+Added Room: Name=×ùÍ·¾¨

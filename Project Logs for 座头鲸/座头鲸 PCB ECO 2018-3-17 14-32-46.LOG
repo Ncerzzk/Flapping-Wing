@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net_1 Pin=D3-A
+Removed Pin From Net: NetName=5V Pin=D3-K
+Change Component Footprint: Designator=D3 Old Footprint=0805D New Footprint=LED_0805_RED
+Change Component Comment : Designator=D3 Old Comment=1N5819 New Comment=Diode
+Added Pin To Net: NetName=Net_1 Pin=D3-1
+Added Pin To Net: NetName=5V Pin=D3-2

@@ -1,0 +1,64 @@
+Added Component: Designator=C17(CAP_TAN_D2917)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "?F"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=ING1(LED_0805_RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OK1(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.6K"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT23-6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB1(USB_Micro-AB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT Pin=C17-1
+Added Pin To Net: NetName=BGND Pin=C17-2
+Added Pin To Net: NetName=BGND Pin=C18-1
+Added Pin To Net: NetName=BGND Pin=R17-2
+Added Pin To Net: NetName=BGND Pin=U2-2
+Added Pin To Net: NetName=VBAT Pin=U2-3
+Added Pin To Net: NetName=BGND Pin=USB1-0
+Added Pin To Net: NetName=BGND Pin=USB1-0
+Added Pin To Net: NetName=BGND Pin=USB1-0
+Added Pin To Net: NetName=BGND Pin=USB1-0
+Added Pin To Net: NetName=BGND Pin=USB1-5
+Added Pin To Net: NetName=NetING1_1 Pin=ING1-1
+Added Pin To Net: NetName=NetING1_1 Pin=R19-1
+Added Net: Name=NetING1_1
+Added Pin To Net: NetName=NetING1_2 Pin=ING1-2
+Added Pin To Net: NetName=NetING1_2 Pin=U2-1
+Added Net: Name=NetING1_2
+Added Pin To Net: NetName=NetOK1_1 Pin=OK1-1
+Added Pin To Net: NetName=NetOK1_1 Pin=R18-2
+Added Net: Name=NetOK1_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U2-6
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=STDBY Pin=OK1-2
+Added Pin To Net: NetName=STDBY Pin=U2-5
+Added Net: Name=STDBY
+Added Pin To Net: NetName=VUSB Pin=C18-2
+Added Pin To Net: NetName=VUSB Pin=R18-1
+Added Pin To Net: NetName=VUSB Pin=R19-2
+Added Pin To Net: NetName=VUSB Pin=U2-4
+Added Pin To Net: NetName=VUSB Pin=USB1-1
+Added Net: Name=VUSB
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component C17 Cap_Tan_2917
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component C18 Cap_0603
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component ING1 LED_0805
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component OK1 LED_0805
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component R17 Res_0603
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component R18 Res_0603
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component R19 Res_0603
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component U2 TP4059
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component USB1 USB_Micro

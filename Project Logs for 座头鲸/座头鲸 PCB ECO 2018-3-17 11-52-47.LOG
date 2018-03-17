@@ -1,0 +1,24 @@
+Added Component: Designator=D5(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=Mos3(Nmos_SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOTOR1(HDR1X2_2.54_180)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=D5-2
+Added Pin To Net: NetName=PA7 Pin=Mos3-G
+Added Pin To Net: NetName=PGND Pin=Mos3-S
+Added Pin To Net: NetName=VBAT Pin=MOTOR1-1
+Added Pin To Net: NetName=PGND Pin=R16-1
+Added Pin To Net: NetName=PA7 Pin=R16-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=Mos3-D
+Added Pin To Net: NetName=NetD5_1 Pin=MOTOR1-2
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component D5 Diode_SMA
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component Mos3 MOSFET N
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component MOTOR1 HDR1x2_2.54
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component R16 Res_0603

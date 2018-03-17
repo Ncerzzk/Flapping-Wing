@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=3V3 Pin=MPU-1
+Removed Pin From Net: NetName=3V3 Pin=MPU-8
+Removed Pin From Net: NetName=3V3 Pin=MPU-13
+Removed Pin From Net: NetName=GND Pin=MPU-18
+Removed Pin From Net: NetName=GND Pin=MPU-20
+Removed Pin From Net: NetName=PB10 Pin=MPU-23
+Removed Pin From Net: NetName=PB11 Pin=MPU-24
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Member From Class: ClassName=×ùÍ·¾¨ Member=MPU
+Change Component Footprint: Designator=C2 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C15 Old Footprint=CAP-MLCC-0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=R2 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R11 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R13 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R14 Old Footprint=RES-0603 New Footprint=RES_0603
+Change Component Comment : Designator=C15 Old Comment=Cap New Comment=Cap_0603
+Change Component Comment : Designator=R11 Old Comment=Res1 New Comment=Res_0603
+Change Component Comment : Designator=R13 Old Comment=Res1 New Comment=Res_0603
+Change Component Comment : Designator=R14 Old Comment=Res1 New Comment=Res_0603
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=MPU1(QFN_P0.4_24)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=3V3 Pin=MPU1-1
+Added Pin To Net: NetName=3V3 Pin=MPU1-8
+Added Pin To Net: NetName=3V3 Pin=MPU1-13
+Added Pin To Net: NetName=GND Pin=MPU1-18
+Added Pin To Net: NetName=GND Pin=MPU1-20
+Added Pin To Net: NetName=PB10 Pin=MPU1-23
+Added Pin To Net: NetName=PB11 Pin=MPU1-24
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=MPU1-10
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetMPU1_9 Pin=MPU1-9
+Added Pin To Net: NetName=NetMPU1_9 Pin=R13-1
+Added Net: Name=NetMPU1_9
+Added Pin To Net: NetName=NetMPU1_11 Pin=MPU1-11
+Added Pin To Net: NetName=NetMPU1_11 Pin=R14-1
+Added Net: Name=NetMPU1_11
+Added Pin To Net: NetName=NetMPU1_22 Pin=MPU1-22
+Added Pin To Net: NetName=NetMPU1_22 Pin=R11-2
+Added Net: Name=NetMPU1_22
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component C19 Cap_0603
+Added Member To Class: ClassName=×ùÍ·¾¨ Member=Component MPU1 MPU9250
